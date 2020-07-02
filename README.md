@@ -2,7 +2,7 @@
 Template used for checking textures for bedrock.
 
 
-# Credits:
+## Credits:
 - Avondale (Noxcrew)
 - Oran Kushnir (GoE-Craft)
 - Yoya/Comezonda (CubeCraft)
