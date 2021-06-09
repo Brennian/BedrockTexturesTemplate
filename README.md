@@ -22,6 +22,6 @@ Credits:
 
 -   Scai (Team Visionary)
 
--   Arcaniax (Pixels & Blocks)
+-   Arcaniax
 
 -   Eleazzaar / John W. Bjerk (Dots Aglow)
